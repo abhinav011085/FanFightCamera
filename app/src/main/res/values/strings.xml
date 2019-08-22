@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FanFightCamera</string>
+    <string name="step_2_of_3">Step 2 of 3</string>
+    <string name="review_dl_front">Review DL front</string>
+    <string name="message">Before proceeding make sure that the data on the image is not blurred and entirely visible to you. Click \'retake\' if you want to upload the image again.</string>
+    <string name="retake">Retake</string>
+    <string name="next">Next</string>
+    <string name="scan_dl_front">Scan DL front</string>
+    <string name="gallery">Gallery</string>
+</resources>
